@@ -1,0 +1,5 @@
+name: MultiblockLib
+version: 1.0-ALPHA
+author: trainb0y1
+main: io.github.trainb0y1.multiblocklib.MultiblockLib
+api-version: 1.17
