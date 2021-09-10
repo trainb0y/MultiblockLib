@@ -1,6 +1,6 @@
 package io.github.trainb0y1.multiblocklib.events;
 
-import io.github.trainb0y1.multiblocklib.MultiblockInstance;
+import io.github.trainb0y1.multiblocklib.multiblocks.MultiblockInstance;
 import org.bukkit.event.Event;
 import org.bukkit.event.HandlerList;
 
